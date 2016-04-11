@@ -11,7 +11,7 @@ html{
 body{
 	min-height:100%;
 	min-width:1000px;
-	font-family: 'fregat',sans-serif;
+	font-family: arial,sans-serif;
 	font-size:5em;
 	background:#fff;
 	color:#000;
@@ -30,19 +30,7 @@ input,textarea,select{
 	color: inherit;
 }
 
-/* fonts */
-@font-face {
-    font-family: 'fregat';
-    src: url('../fonts/fregat_italic.eot');
-    src: url('../fonts/fregat_italic.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/fregat_italic.woff2') format('woff2'),
-         url('../fonts/fregat_italic.woff') format('woff'),
-         url('../fonts/fregat_italic.ttf') format('truetype'),
-         url('../fonts/fregat_italic.svg#fregatitalic') format('svg');
-    font-weight: normal;
-    font-style: italic;
 
-}
 
 
 
