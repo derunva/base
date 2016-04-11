@@ -17,11 +17,9 @@ body{
 	color:#000;
 	position:relative;
 }
-img{
-	max-width: 100%;
-	vertical-align:bottom;
-	border:0;
-}
+
+/** brak **/
+
 input,textarea,select{
 	font-family: inherit;
 	font-size: inherit;
