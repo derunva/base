@@ -116,7 +116,7 @@ p{margin:0;}
 .ctext ul li{list-style:none; padding:0 0 0 13px; margin:0 0 5px 30px; position:relative;}
 .ctext ul li:before{content:'\2022';display:block;position:absolute; left:0; color:#429103; font-size:0.8em;}
 .ctext ol{counter-reset: point; }
-.ctext ol li{list-style:none;padding:0 0 0 14px; position:relative;} 
+.ctext ol li{list-style:none;padding:0 0 0 14px; position:relative;}
 .ctext ol li:before{  content:counter(point)'.'; /* выводим значение переменной */counter-increment:point 1; /* увеличваем счетчик на 1 */ position: absolute;  left: 0;color:#e32636;}
 .ctext ul.pinklist li:before{color:#ba419e;}
 .ctext hr{}
@@ -196,10 +196,15 @@ p{margin:0;}
 	width: 17px;
 }
 
+/* Changes */
+
+.icon_skype {
+    text-decoration: none;
+}
 
 
 
 
 
 
- 
+
